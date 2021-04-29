@@ -1,0 +1,26 @@
+body {
+  width: 500px;
+  padding-top: 40px;
+  margin: 0 auto;
+  font-size: 18px;
+  text-align: center;
+  color: #2c5b78;
+  background-color: #fff1e0;
+  display: flex;
+}
+
+.main-title {
+  margin-bottom: 100px;
+}
+
+.completed {
+  color: #3d3935;
+  background-color: rgba(42, 120, 107, .3);
+  border: 1px solid white;
+}
+
+.new {
+  color: #0b3d26;
+  background-color: rgba(44, 91, 120, .3);
+  border: 1px solid white;
+}
